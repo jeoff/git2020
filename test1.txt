@@ -4,3 +4,5 @@ line1, test add
 line2, modify but not commit
 
 line3, modify and commit before
+
+line4
