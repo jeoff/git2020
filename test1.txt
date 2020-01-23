@@ -1,2 +1,4 @@
 
 line1, test add
+
+line3, modify and commit before
