@@ -2,3 +2,5 @@
 line1, test add
 
 line3, modify and commit before
+
+line2, modify but not commit
